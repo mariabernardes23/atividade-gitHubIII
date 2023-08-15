@@ -5,9 +5,13 @@ O objetivo principal do meu projeto é construir um sistema que permita a aplica
 O padrão Strategy me permite definir diversas estratégias de desconto, cada uma encapsulada em sua própria classe.
 Através da interface gráfica do Java Swing, estou criando uma experiência interativa para o usuário. O usuário poderá inserir o valor do pagamento e escolher a estratégia de desconto desejada. O sistema calculará o desconto aplicável com base na estratégia selecionada e exibirá o valor total após o desconto.
 
-##Imagens do Projeto
-![p](https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/e1a239db-56dc-4c8d-8d69-5746fe99a249)
-![pII](https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/c5770d6e-e4a6-4c7a-86e9-caba67fe8fa8)
-![pIII](https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/2ee340a0-2e9a-43de-8b3c-84a5fc988408)
+# Imagens do Projeto
 
-
+<div align="center">
+  <img src="https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/e1a239db-56dc-4c8d-8d69-5746fe99a249"  width="400px" />
+</div>
+<div align="center">
+  <img src="https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/c5770d6e-e4a6-4c7a-86e9-caba67fe8fa8" width="400px" />
+<div align="center">
+  <img src="https://github.com/mariabernardes23/atividade-gitHubIII/assets/99373514/2ee340a0-2e9a-43de-8b3c-84a5fc988408" width="400px" />
+</div>
